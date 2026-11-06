@@ -19,6 +19,6 @@ python3 tests/test_patch.py
 
 ## Support
 
-Questions and bug reports: open an issue at https://github.com/maksforge/wot-ping-distance/issues or write to wotmods.support@maksforge.com. For a bug, include your game version and `game.log` from the game folder.
+Questions and bug reports: open an issue at https://github.com/maks-sredniawa/wot-ping-distance/issues or write to wotmods.support@maksforge.com. For a bug, include your game version and `game.log` from the game folder.
 
 This is a free fan-made mod by MaksForge. It is not affiliated with or endorsed by Wargaming.
